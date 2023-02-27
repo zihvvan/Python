@@ -13,5 +13,12 @@ st.write(
     ## 프로그래머 김플 스튜디오
     > 이유 :  ChatGPT, IT NEWS 등 최신 소식들을 잘 알려준다.
     [링크](https://www.youtube.com/@kimfl)
+
+    # 참고 사이트
+    * [icons8](https://icons8.com/)
+    * [flaticon](https://www.flaticon.com/)
+    * [pixabay](https://pixabay.com/ko/)
     """
+
+    
 )
